@@ -10,6 +10,14 @@ No database, no PHP, no login, no server API. A static file server is all it tak
 
 ![screenshot](thumbnail.png)
 
+## Why this exists
+
+One day the EffectHub site just stopped loading for me.
+It was an editor I used a lot, and losing it like that was a shame.
+
+Luckily the source was open, so I pulled out just the editor part and made it run locally.
+Putting it up here for anyone in the same boat. 🙂
+
 ## Run it
 
 ```sh
